@@ -20,7 +20,7 @@ function App() {
           Learn React
         </a>
         <ButtonComponent label="NO"/>
-        <ImageComponent src='https://ichef.bbci.co.uk/news/976/cpsprodpb/161FC/production/_123402609_mediaitem123402608.jpg' alt='Picture not found'/>
+        <ImageComponent src='https://www.billboard.com/wp-content/uploads/media/queen-1989-billboard-1548.jpg?w=1024' alt='Picture not found'/>
       </header>
     </div>
   );
